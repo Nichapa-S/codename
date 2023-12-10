@@ -56,4 +56,3 @@ if st.button('Submit'):
     suggestion_df = pd.DataFrame.from_dict(sd)
     print(suggestion_df)
     st.table(suggestion_df)
-    
