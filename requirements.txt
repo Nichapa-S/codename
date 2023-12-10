@@ -1,4 +1,3 @@
-nltk
 openai
 json
 pandas
